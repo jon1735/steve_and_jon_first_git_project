@@ -13,3 +13,14 @@ div.developer {
     padding: 6px;
     text-align: center;
   }
+div.food {
+  width: 200px;
+  display: block;
+  border: 2px solid orange;
+  border-radius: 5px;
+  padding: 6px;
+  text-align: center;
+}
+li {
+  text-align: left;
+}
